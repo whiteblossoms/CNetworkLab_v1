@@ -1,0 +1,2 @@
+prefix = D:\nodejs\node_global
+cache = D:\nodejs\node_global
